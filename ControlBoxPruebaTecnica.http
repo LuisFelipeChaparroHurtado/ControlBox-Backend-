@@ -1,0 +1,6 @@
+@ControlBoxPruebaTecnica_HostAddress = http://localhost:5048
+
+GET {{ControlBoxPruebaTecnica_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
